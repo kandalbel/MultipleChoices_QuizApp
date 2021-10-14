@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quiz Time</string>
+    <string name="username">Kullancı adı</string>
+    <string name="password">Şifre</string>
+    <string name="login">Oturum aç</string>
+    <string name="kay_tl_de_il">Kayıtlı değilsiniz?</string>
+    <string name="register">Kayıtlı ol</string>
+    <string name="confirm_password">Şifreyi onayla</string>
+    <string name="already_registered">Zaten Kayıtlı</string>
+
+</resources>
